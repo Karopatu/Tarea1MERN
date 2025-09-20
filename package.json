@@ -1,0 +1,30 @@
+{
+  "name": "bootcamp-2025-clase-1",
+  "version": "1.0.0",
+  "description": "This is an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalarrea/Bootcamp-2025-Clase-1.git"
+  },
+  "keywords": [
+    "example",
+    "nodejs",
+    "express",
+    "basic"
+  ],
+  "author": "Leonardo Larrea <leonardo.larrea1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalarrea/Bootcamp-2025-Clase-1/issues"
+  },
+  "homepage": "https://github.com/jalarrea/Bootcamp-2025-Clase-1#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^13.0.0",
+    "zod": "^4.1.9"
+  }
+}
